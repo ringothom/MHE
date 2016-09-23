@@ -1,6 +1,7 @@
 %% INPUT
-path = '';    % must contain folders 'matlabfiles' and 'predictions'
-cl   = 12;    % number of clusters for parallel computing
+path = 'C:/Users/';
+% must contain folders 'matlabfiles' and 'predictions'
+cl   = 12; % number of clusters for parallel computing
 
 %% Prepair 
 
