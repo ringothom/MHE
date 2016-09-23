@@ -1,5 +1,5 @@
 ####################### INPUT
-path = "C:/Users/Ringolf/Documents/Masterarbeit/test"
+path = "C:/Users/"
 
 ####################### load packages
 pack = c("caret", "AUC", "hmeasure", "R.matlab", "glmnet", "scmamp", "xtable")
