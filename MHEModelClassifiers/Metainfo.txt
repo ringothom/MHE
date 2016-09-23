@@ -16,7 +16,7 @@ Inputs: 'path - initial working directory (This working
 	cl   - number of clusters for parallel computing'
 
 Output: 'The working directory given by path will contain two 
-        additional folders: models and predictions. 'models' will 
+        additional folders: models and predictions. models will 
         have subfolders named as the data sets in datasets. In these 
         subfolders machine learning models are stored. predictions 
         will have subfolders named after the data sets which contain the
