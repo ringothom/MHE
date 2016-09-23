@@ -23,7 +23,7 @@ Output: 'Structures in .mat-format for each metaheuristic/fitness function
 
 Keywords : data mining
 
-Keywords[new] : machine learning, ensemble of classifiers, metaheuristics
+Keywords[new] : machine learning, ensemble of classifiers, metaheuristic
 
 See also : MHEModelClassifiers, MHEEnsembleEvaluation
 
