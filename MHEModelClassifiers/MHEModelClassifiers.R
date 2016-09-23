@@ -1,7 +1,6 @@
 ############################ INPUT
-path = "C:/Users/"
-# must contain folder 'datasets' with data sets .txt-format
-cl   = 2  # number of clusters for parallel computing
+path = "C:/Users/"    # must contain folder 'datasets' with data sets .txt-format
+cl   = 2              # number of clusters for parallel computing
 
 ############################ load required packages
 pack = c("RRF", "caret", "plyr", "foreach", "gbm", "party", "kknn", "e1071", "kernlab", 
