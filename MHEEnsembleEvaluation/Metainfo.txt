@@ -10,11 +10,11 @@ Description : 	'Accumulates outputs of MHEMetaheuristicEnsembles and performs
 		best base model, simple average ensemble, greedy optimization 
 		technique, ensemble selection and LASSO regression.'
 
-Inputs:	'A string path for the initial working directory. This working 
-       	directory must contain a folder named datasets in which data 
-       	sets in .txt-format are stored, and another folder named predictions 
-	that contains outputs produced by MHEModelClassifiers and
-	MHEMetaheuristicEnsembles.'
+Inputs:	'path - initial working directory (This working 
+       		directory must contain a folder named datasets in which data 
+       		sets in .txt-format are stored, and another folder named predictions 
+		that contains outputs produced by MHEModelClassifiers and
+		MHEMetaheuristicEnsembles.)'
 
 Output:	'TableRankScoreAUC   -	Mean ranks of scores in Friedman test regarding
 				AUC
