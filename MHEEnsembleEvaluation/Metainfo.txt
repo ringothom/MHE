@@ -16,25 +16,25 @@ Inputs:	'A string path for the initial working directory. This working
 	that contains outputs produced by MHEModelClassifiers and
 	MHEMetaheuristicEnsembles.'
 
-Output:	'MHEEnsembleEvaluation_01   -	Mean ranks of scores in Friedman test 					regarding score differences in AUC
-	MHEEnsembleEvaluation_02   -	Boxplots of scores regarding computation 						time
-	MHEEnsembleEvaluation_03   -	Corrected p-values in post hoc test 							regarding AUC
-	MHEEnsembleEvaluation_04   -	Mean ranks of scores in Friedman test 							regarding computation time
-	MHEEnsembleEvaluation_05   -  	Mean ranks of scores in Friedman test 							regarding sparsity
-	MHEEnsembleEvaluation_06   -  	Corrected p-values in post hoc test 							regarding differences of scores in 							percentage of zero weights
-	MHEEnsembleEvaluation_07   -	Boxplots of scores regarding percentage of 					zero weights
-	MHEEnsembleEvaluation_08   -	Boxplots of metaheuristics regarding 							computation time
-	MHEEnsembleEvaluation_09   -	Mean ranks of metaheuristics in Friedman 						test regarding Brier score
-	MHEEnsembleEvaluation_10   -	Mean ranks of metaheuristics in Friedman 						test regarding H-measure
-	MHEEnsembleEvaluation_11   -	Corrected p-values in post hoc test 							regarding differences of metaheuristics in 					H-measure
-	MHEEnsembleEvaluation_12   -	Mean ranks of metaheuristics in Friedman 						test regarding difficulty
-	MHEEnsembleEvaluation_13   -	Mean ranks of metaheuristics in Friedman 						test regarding interrater agreement
-	MHEEnsembleEvaluation_14   -	Mean ranks of metaheuristics in Friedman 						test regarding computation time
-	MHEEnsembleEvaluation_15   -	Mean ranks of metaheuristics in Friedman 						test regarding percentage of zero weights
-	MHEEnsembleEvaluation_16   -	Corrected p-values in post hoc test 					regarding differences of metaheuristics in 					computation time
-	MHEEnsembleEvaluation_17   -	Corrected p-values in post hoc test 					regarding differences of metaheuristics in 					percentage of zero weights	
-	MHEEnsembleEvaluation_18   -	Boxplots of metaheuristics regarding 							percentage of zero weights
-	MHEEnsembleEvaluation_19   - 	Table of best metaheuristics compared to 					other techniques based on Brier score 					relative to global optimum.'
+Output:	'MHEEnsembleEvaluation_01   -	Mean ranks of scores in Friedman test regarding score differences in AUC
+	MHEEnsembleEvaluation_02   -	Boxplots of scores regarding computation time
+	MHEEnsembleEvaluation_03   -	Corrected p-values in post hoc test regarding AUC
+	MHEEnsembleEvaluation_04   -	Mean ranks of scores in Friedman test regarding computation time
+	MHEEnsembleEvaluation_05   -  	Mean ranks of scores in Friedman test regarding sparsity
+	MHEEnsembleEvaluation_06   -  	Corrected p-values in post hoc test regarding differences of scores in sparsity
+	MHEEnsembleEvaluation_07   -	Boxplots of scores regarding percentage of zero weights
+	MHEEnsembleEvaluation_08   -	Boxplots of metaheuristics regarding computation time
+	MHEEnsembleEvaluation_09   -	Mean ranks of metaheuristics in Friedman test regarding Brier score
+	MHEEnsembleEvaluation_10   -	Mean ranks of metaheuristics in Friedman test regarding H-measure
+	MHEEnsembleEvaluation_11   -	Corrected p-values in post hoc test regarding differences of metaheuristics in H-measure
+	MHEEnsembleEvaluation_12   -	Mean ranks of metaheuristics in Friedman test regarding difficulty
+	MHEEnsembleEvaluation_13   -	Mean ranks of metaheuristics in Friedman test regarding interrater agreement
+	MHEEnsembleEvaluation_14   -	Mean ranks of metaheuristics in Friedman test regarding computation time
+	MHEEnsembleEvaluation_15   -	Mean ranks of metaheuristics in Friedman test regarding percentage of zero weights
+	MHEEnsembleEvaluation_16   -	Corrected p-values in post hoc test regarding differences of metaheuristics in computation time
+	MHEEnsembleEvaluation_17   -	Corrected p-values in post hoc test regarding differences of metaheuristics in sparsity
+	MHEEnsembleEvaluation_18   -	Boxplots of metaheuristics regarding percentage of zero weights
+	MHEEnsembleEvaluation_19   - 	Table of best metaheuristics compared to other techniques based on Brier score 								relative to global optimum.'
 
 Keywords : data mining
 
