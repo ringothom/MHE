@@ -50,7 +50,7 @@ Output:	'TableRankScoreAUC   -	Mean ranks of scores in Friedman test regarding
 				time
 	BoxplotMhZero	     -	Boxplots of metaheuristics regarding percentage of 
 				zero weights
-	TablensembleComparison   - Table of best metaheuristics compared to other 
+	TableEnsembleComparison   - Table of best metaheuristics compared to other 
 				techniques based on Brier score relative to global 
 				optimum.'
 
