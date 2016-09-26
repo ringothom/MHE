@@ -21,7 +21,7 @@ Output: 'Structures in .mat-format for each metaheuristic/fitness function
 	combination consisting of weights, computation time and final fitness 
 	stored in subfolder of predictions for respective data set.'
 
-Keywords : data mining, simulation, optimization, 
+Keywords : data mining, simulation, classification, parameter, sampling
 
 Keywords[new] : machine learning, ensemble of classifiers, metaheuristic
 
