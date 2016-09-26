@@ -36,7 +36,7 @@ Output:	'MHEEnsembleEvaluation_01   -	Mean ranks of scores in Friedman test rega
 	MHEEnsembleEvaluation_18   -	Boxplots of metaheuristics regarding percentage of zero weights
 	MHEEnsembleEvaluation_19   - 	Table of best metaheuristics compared to other techniques based on Brier score 								relative to global optimum.'
 
-Keywords : data mining
+Keywords : data mining, Testing, LASSO, classification, statistics
 
 Keywords[new] : machine learning, ensemble of classifiers, metaheuristic
 
