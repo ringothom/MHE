@@ -23,7 +23,7 @@ Output: 'The working directory given by path will contain two
         data set partitioning vector, the stacked predictions for
         training and testing data and training set observations.'
 
-Keywords : data mining
+Keywords : data mining, simulation, prediction, support vector machine, model
 
 Keywords[new] : machine learning, ensemble of classifiers
 
