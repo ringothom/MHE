@@ -1,4 +1,4 @@
-Name of QuantLet : MHEMetaheuristicEnsemble
+Name of QuantLet : MHEMetaheuristicEnsembles
 
 Published in : 'MHE - Performance Analysis and Comparison of Metaheuristics for 
                 Generating Ensembles of Classifiers'
