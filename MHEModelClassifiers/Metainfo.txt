@@ -10,10 +10,11 @@ Description : 'Estimates machine learning models for one or more data sets
               training and testing data are stacked into dataframes which are 
               also stored.'
 
-Inputs: 'path - initial working directory (This working 
+Inputs:
+- path : 'initial working directory (This working 
         	directory must contain a folder named datasets in which data 
-        	sets in .txt-format are stored) 
-	cl   - number of clusters for parallel computing'
+        	sets in .txt-format are stored)'
+- cl : number of clusters for parallel computing'
 
 Output: 'The working directory given by path will contain two 
         additional folders: models and predictions. models will 
@@ -23,15 +24,10 @@ Output: 'The working directory given by path will contain two
         data set partitioning vector, the stacked predictions for
         training and testing data and training set observations.'
 
-Keywords : data mining, simulation, prediction, support vector machine, model
-
-Keywords[new] : machine learning, ensemble of classifiers
+Keywords : data mining, simulation, prediction, support vector machine, model, machine learning, ensemble of classifiers
 
 See also : MHEMetaheuristicEnsembles, MHEEnsembleEvaluation
 
 Author: Ringolf Thomschke
 
-Datafile: 'credit_approval.txt, fertility.txt, heart_disease.txt, 
-	   ionosphere.txt, pima_indians_diabetes.txt'
-
-
+Datafile: 'credit_approval.txt, fertility.txt, heart_disease.txt, ionosphere.txt, pima_indians_diabetes.txt'

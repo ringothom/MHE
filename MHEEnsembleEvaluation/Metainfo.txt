@@ -34,11 +34,9 @@ Output:	'MHEEnsembleEvaluation_01   -	Mean ranks of scores in Friedman test rega
 	MHEEnsembleEvaluation_16   -	Corrected p-values in post hoc test regarding differences of metaheuristics in computation time
 	MHEEnsembleEvaluation_17   -	Corrected p-values in post hoc test regarding differences of metaheuristics in sparsity
 	MHEEnsembleEvaluation_18   -	Boxplots of metaheuristics regarding percentage of zero weights
-	MHEEnsembleEvaluation_19   - 	Table of best metaheuristics compared to other techniques based on Brier score 								relative to global optimum.'
+	MHEEnsembleEvaluation_19   - 	Table of best metaheuristics compared to other techniques based on Brier score relative to global optimum.'
 
-Keywords : data mining, Testing, LASSO, classification, statistics
-
-Keywords[new] : machine learning, ensemble of classifiers, metaheuristic
+Keywords : data mining, Testing, LASSO, classification, statistics, machine learning, ensemble of classifiers, metaheuristic
 
 See also : MHEModelClassifiers, MHEMetaheuristicEnsembles
 
